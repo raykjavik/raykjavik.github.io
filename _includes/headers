@@ -1,2 +1,0 @@
-<li><a href="{{ '/cs/' | relative_url }}">🇨🇿 CZ</a></li>
-<li><a href="{{ '/en/' | relative_url }}">🇬🇧 EN</a></li>

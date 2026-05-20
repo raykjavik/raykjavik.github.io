@@ -1,0 +1,41 @@
+<!-- Footer -->
+<footer id="footer">
+	<div class="inner">
+		<ul class="icons">
+			{% if site.socials.Instagram %}
+				<li>
+					<a href="{{ site.socials.Instagram }}"
+					   class="icon alt fa-instagram"
+					   target="_blank"
+					   rel="noopener noreferrer"
+					   aria-label="Instagram">
+						<span class="label">Instagram</span>
+					</a>
+				</li>
+			{% endif %}
+
+			{% if site.socials.Facebook %}
+				<li>
+					<a href="{{ site.socials.Facebook }}"
+					   class="icon alt fa-facebook"
+					   target="_blank"
+					   rel="noopener noreferrer"
+					   aria-label="Facebook">
+						<span class="label">Facebook</span>
+					</a>
+				</li>
+			{% endif %}
+		</ul>
+	</div>
+</footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/jquery.scrolly.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/jquery.scrollex.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/skel.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/util.js' | relative_url }}"></script>
+<!--[if lte IE 8]><script src="{{ '/assets/js/ie/respond.min.js' | relative_url }}"></script><![endif]-->
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
