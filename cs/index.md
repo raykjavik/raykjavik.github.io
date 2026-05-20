@@ -1,12 +1,20 @@
 ---
 layout: landing
-title: Zouk Session
 description: Učíme brazilský zouk, organizujeme tréninky, praktiky a tančírny, budujeme komunitu.
 image: assets/images/image1.png
-permalink: /cs/
+image_alt: Zouk Session
+permalink: /
 nav-menu: false
 lang: cs
 ---
+
+<p class="major">
+Učíme brazilský zouk, organizujeme tréninky, praktiky a tančírny, budujeme komunitu.
+</p>
+
+<hr>
+
+# Zouk Session
 
 ![Zouk Session banner]({{ '/assets/images/image1.png' | relative_url }})
 

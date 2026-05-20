@@ -1,11 +1,10 @@
 ---
 layout: landing
-title: Zouk Session
-description: Učíme brazilský zouk, organizujeme tréninky, praktiky a tančírny, budujeme komunitu.
+description: We teach Brazilian zouk, organize training sessions, guided practice, and build community.
 image: assets/images/image1.png
-permalink: /cs/
+permalink: /en/
 nav-menu: false
-lang: cs
+lang: en
 ---
 
 ![Zouk Session banner]({{ '/assets/images/image1.png' | relative_url }})
@@ -14,53 +13,56 @@ lang: cs
 
 # Zouk Session
 
-Je pro nás **hodina solo tréninku** a navazující asistovaná **párová hodinová praktika**.
+For us, it means **one hour of solo training** followed by an assisted **one-hour partner practice**.
 
-| Kdy | Kde |
+| When | Where |
 |---|---|
-| **Pondělky 18:30–20:30** | **Praha**, Školská 1736/12 |
+| **Mondays 18:30–20:30** | **Prague**, Školská 1736/12 |
 
-## Registrace
+## Registration
 
-[Registruj se zde](REPLACE_WITH_REGISTRATION_URL)
+[Register here](REPLACE_WITH_REGISTRATION_URL)
 
-Místo toho, abychom se soustředili na výuku figur a partner work, začínáme u sebe. Věříme totiž, že lepším leaderem nebo followerem se stávám v momentě, kdy se zlepšuji jako tanečník.
+Instead of focusing mainly on figures and partner work, we begin with ourselves. We believe that I become a better leader or follower when I improve as a dancer.
 
-*Tanec je práce s pozorností, která se ubírá čtyřmi směry – ke mně, k partnerovi, k hudbě, k mému okolí.*
+*Dance is work with attention that moves in four directions – toward myself, my partner, the music, and my surroundings.*
 
-Pracuj nejdřív na svém vlastním pohybu. Získej v něm komfort a jistotu. Zlepši si smysl pro rytmus. Ano, dá se to trénovat. Pak Ti zbyde pozornost na partnera i na to nevrážet do ostatních na party.
+First, work on your own movement. Gain comfort and confidence in it. Improve your sense of rhythm. Yes, that can be trained. Then you will have more attention left for your partner and for not bumping into others at parties.
 
-*Pozornost je to nejcennější, co můžeme v tanci partnerovi věnovat. Ti, kdo jí věnují hodně, se stávají oblíbenými tanečníky.*
+*Attention is the most valuable thing we can offer our partner in dance. Those who give a lot of it often become favorite dance partners.*
 
-## Solo lekce
+## Solo class
 
-Začínáme komplexní pohybovou rozcvičkou. Pak se věnujeme cvičením na témata: krokové patterny v zouku, body movement, izolace,
-vlny, tvarování a head movements, rytmické dynamiky, stabilita, koordinace a další.
+We begin with a full-body movement warm-up. Then we work on topics such as: zouk stepping patterns, body movement, isolations, waves, shaping and head movements, rhythmic dynamics, stability, coordination, and more.
 
-## Párová praktika
+## Partner practice
 
-Je tvůj čas s ostatními tanečníky a lektory. Můžeš ho strávit tancem, konzultacemi a zkoušením. Během praktiky hrajeme pomalejší hudbu.
+This is your time with other dancers and teachers. You can spend it dancing, consulting, and experimenting. During the practice, we play slower music.
 
-## Potřebuju partnera?
+## Do I need a partner?
 
-Budeme rádi, pokud se budete hlásit na lekce ve dvojici leader + follower, abychom měli role vyrovnané. Nutné to není. Střídání se je žádoucí, ale ne povinné.
+We are happy when people register in leader + follower pairs so that the roles stay balanced. It is not required. Rotating partners is encouraged, but not mandatory.
 
-## A co figury?
+## What about figures?
 
-Figurám se můžeme věnovat individuálně v době praktik. Pokud jsi začátečník, potřebuješ ty základní a projdeme je společně. Pokud už máš něco za sebou, zkus si je sám tvořit nebo se učit z videí. Rádi to s Tebou prokonzultujeme, případně dáme tipy na kvalitní zdroje.
+We can work on figures individually during the practice session. If you are a beginner, you need the basics and we will go through them together. If you already have some experience, try creating them yourself or learning from videos. We will gladly discuss them with you and recommend high-quality sources.
 
-## Drop in, open level
+## Drop-in, open level
 
-Registrace je možná na jednotlivé lekce. Snažíme se koncipovat tréninky tak, aby si každý něco odnesl, ať už je začátečník nebo tančí roky. Na některá cvičení můžeme skupinu rozdělit podle zkušeností nebo tanečních rolí.
+You can register for individual sessions. We aim to design the trainings so that everyone takes something away, whether they are a beginner or have been dancing for years. For some exercises, we may split the group by experience level or dance role.
 
-## Můžu přijít pouze na praktiku?
+## Can I come only for the practice?
 
-Ne. Chceme náš čas věnovat těm, kteří na sobě chtějí pracovat po solo stránce.
+No. We want to dedicate our time to people who also want to work on themselves through solo training.
 
-## Chci začít se zoukem
+## I want to start zouk
 
-Komunita tě potřebuje. Když Ti nepůjde vše tak rychle jako ostatním, je důležité si z toho nic nedělat. Ego ideálně nechat za dveřmi.
+The community needs you. If things do not come as quickly to you as they do to others, it is important not to worry about it. Ideally, leave your ego at the door.
 
-Přijď to zkusit a uvidíme. Pro úplné začátečníky je první lekce zdarma.
+Come try it and we will see. The first lesson is free for complete beginners.
 
 ---
+
+# Who we are
+
+`<todo>`
