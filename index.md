@@ -1,13 +1,10 @@
 ---
-layout: page
-permalink: /
-nav-menu: false
-show_tile: false
+layout: null
+permalink: /cs/
 ---
-
-# Zouk Session
-
-Choose your language:
-
-- [🇨🇿 Čeština]({{ '/cs/' | relative_url }})
-- [🇬🇧 English]({{ '/en/' | relative_url }})
+<!doctype html>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
+<link rel="canonical" href="{{ '/' | absolute_url }}">
+<title>Redirecting…</title>
+<p>Redirecting to <a href="{{ '/' | relative_url }}">the Czech homepage</a>.</p>
