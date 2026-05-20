@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Choose language
 permalink: /
+nav-menu: false
+show_tile: false
 ---
 
-# Choose your language
+# Zouk Session
+
+Choose your language:
 
 - [🇨🇿 Čeština]({{ '/cs/' | relative_url }})
 - [🇬🇧 English]({{ '/en/' | relative_url }})

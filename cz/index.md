@@ -4,7 +4,7 @@ title: Zouk Session
 description: Učíme brazilský zouk, organizujeme tréninky, praktiky a tančírny, budujeme komunitu.
 image: assets/images/image1.png
 permalink: /cs/
-nav-menu: true
+nav-menu: false
 lang: cs
 ---
 
@@ -34,7 +34,8 @@ Pracuj nejdřív na svém vlastním pohybu. Získej v něm komfort a jistotu. Zl
 
 ## Solo lekce
 
-Začínáme komplexní pohybovou rozcvičkou. Pak se věnujeme cvičením na témata: krokové patterny v zouku, body movement, izolace, tvarování a head movements, rytmické dynamiky, stabilita, koordinace a další.
+Začínáme komplexní pohybovou rozcvičkou. Pak se věnujeme cvičením na témata: krokové patterny v zouku, body movement, izolace,
+vlny, tvarování a head movements, rytmické dynamiky, stabilita, koordinace a další.
 
 ## Párová praktika
 
@@ -64,6 +65,3 @@ Přijď to zkusit a uvidíme. Pro úplné začátečníky je první lekce zdarma
 
 ---
 
-# Kdo jsme
-
-`<todo>`

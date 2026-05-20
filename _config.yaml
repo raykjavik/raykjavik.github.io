@@ -1,0 +1,22 @@
+description: We teach Brazilian zouk, organize training sessions, practices, and build community.
+
+baseurl: ""
+url: "https://raykjavik.github.io/"
+
+tiles-source: pages
+tiles-count: 2
+
+socials:
+  Instagram: https://www.instagram.com/social.dance.collective/
+  Facebook: https://www.facebook.com/people/Social-Dance-Collective/61578879071483/
+
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+  - "*.gemspec"
+  - LICENSE.md
+  - CONTRIBUTING.md
+  - README.md

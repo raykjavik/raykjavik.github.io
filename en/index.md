@@ -1,10 +1,10 @@
 ---
 layout: landing
 title: Zouk Session
-description: We teach Brazilian zouk, organize training sessions, guided practice, and social dancing, and build community.
+description: We teach Brazilian zouk, organize training sessions, guided practice, and build community.
 image: assets/images/image1.png
 permalink: /en/
-nav-menu: true
+nav-menu: false
 lang: en
 ---
 
@@ -63,7 +63,3 @@ The community needs you. If things do not come as quickly to you as they do to o
 Come try it and we will see. The first lesson is free for complete beginners.
 
 ---
-
-# Who we are
-
-`<todo>`
