@@ -9,24 +9,7 @@
 	</a>
 
 	<nav>
-		<a href="{{ '/' | relative_url }}" aria-label="Čeština">🇨🇿 CZ</a>
-		<a href="{{ '/en/' | relative_url }}" aria-label="English">🇬🇧 EN</a>
-		<a href="#menu">Menu</a>
+		<a href="{{ '/' | relative_url }}" aria-label="Čeština">CZ</a>
+		<a href="{{ '/en/' | relative_url }}" aria-label="English">EN</a>
 	</nav>
 </header>
-
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-		<li><a href="{{ '/' | relative_url }}">Úvod</a></li>
-
-		{% for page in site.html_pages %}
-			{% if page.nav-menu == true %}
-				<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-			{% endif %}
-		{% endfor %}
-
-		<li><a href="{{ '/' | relative_url }}">🇨🇿 CZ</a></li>
-		<li><a href="{{ '/en/' | relative_url }}">🇬🇧 EN</a></li>
-	</ul>
-</nav>
