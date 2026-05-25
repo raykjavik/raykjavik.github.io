@@ -2,10 +2,10 @@
 	--bg: #161518;
 	--surface: #211f27;
 	--surface-2: #2a2732;
-	--text: #f4f0ff;
-	--muted: #d3ccdf;
-	--accent: #ed67ffda;
-	--accent-strong: #b89cff;
+	--text: #fffff3;
+	--muted: #fffff8;
+	--accent: lab(98.94% -0.71 5.12 / 0.875);
+	--accent-strong: #fffad8;
 	--border: rgba(255, 255, 255, 0.14);
 	--max-width: 980px;
 }
@@ -22,7 +22,7 @@ body {
 	margin: 0;
 	background: var(--bg);
 	color: var(--text);
-	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	font-family: "Roboto Mono", monospace;
 	line-height: 1.65;
 }
 
